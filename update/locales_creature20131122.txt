@@ -1,0 +1,4 @@
+UPDATE locales_creature SET name_loc4 = '艾德温娜·蒙佐尔',subname_loc4 = '弓箭商' WHERE entry = '1462';
+UPDATE locales_creature SET name_loc4 = '法尔坎·阿莫尼斯',subname_loc4 = '材料商' WHERE entry = '1463';
+UPDATE locales_creature SET name_loc4 = '旅店老板赫布瑞克',subname_loc4 = '旅店老板' WHERE entry = '1464';
+UPDATE locales_creature SET name_loc4 = '德拉克·卷刃',subname_loc4 = '商人' WHERE entry = '1465';
